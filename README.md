@@ -55,12 +55,12 @@ To get started with this course, follow these steps:
 
 ## 📚 Additional Resources
 
-    * [Python Official Documentation] (https://docs.python.org/3/)
-    * [Python Package Index (PyPI)] (https://pypi.org/)
+    * Python Official Documentation <https://docs.python.org/3/>
+    * Python Package Index (PyPI) <https://pypi.org/>
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE] file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 💬 Contact
 
