@@ -45,7 +45,7 @@ To get started with this course, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
-    ```git clone https://github.com/yourusername/python-basics-course.git```
+    ```git clone https://github.com/aitorph7/python-basics-course.git```
 
 2. **Navigate to the Directory**: Change into the repository directory:
 
